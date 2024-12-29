@@ -26,6 +26,14 @@
 * Free energy principle (https://en.wikipedia.org/wiki/Free_energy_principle#Active_inference)
 * active inference
 
+## Blog posts
+
+* https://jaredtumiel.github.io/blog/2020/08/08/free-energy1.html
+
+## Python Examples
+
+* 
+
 
 ## Energy conservation 
 
