@@ -18,7 +18,7 @@
 
 ## Energy conservation 
 
-
+Images from NeuroIPS 2024. 
 
 ![screenshot2](IMG_9788.jpg)
 
