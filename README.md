@@ -29,9 +29,15 @@
 ## Blog posts
 
 * https://jaredtumiel.github.io/blog/2020/08/08/free-energy1.html
+* https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177
+* 
 
 ## Python Examples
 
+* https://github.com/infer-actively/pymdp
+* https://github.com/vschaik/Active-Inference
+* https://pymdp-rtd.readthedocs.io/en/latest/notebooks/free_energy_calculation.html
+* https://colab.research.google.com/github/infer-actively/pymdp/blob/master/docs/notebooks/pymdp_fundamentals.ipynb
 * 
 
 
