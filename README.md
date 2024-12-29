@@ -1,6 +1,6 @@
 # Friston Energy Conservation Inference
 
-* Karl J. Friston
+* Prof. Karl J. Friston
 
 
 ## Key Papers
